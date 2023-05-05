@@ -1,0 +1,8 @@
+Write a program that will take input string and generate a output string (as given below).
+
+Description: Group the same number in a group and render in decreasing order separated by dots.
+Don't consider the alphanumeric set which is the 1st 3 characters.
+
+E.g
+input: C04.557.470.615.305
+output: C04.77.6.5555.4.3.1.00
